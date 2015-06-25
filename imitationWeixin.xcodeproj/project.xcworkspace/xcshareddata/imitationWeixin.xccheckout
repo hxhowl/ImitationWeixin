@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1057AA28-5D8D-4565-B2C3-13AFEADAA7AB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>imitationWeixin</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C84FCFEBE48939775187A27F3317EDE081F5C3C2</key>
+		<string>https://git.oschina.net/mikado_Q/ImitationWeixin.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>imitationWeixin/imitationWeixin.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C84FCFEBE48939775187A27F3317EDE081F5C3C2</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://git.oschina.net/mikado_Q/ImitationWeixin.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C84FCFEBE48939775187A27F3317EDE081F5C3C2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C84FCFEBE48939775187A27F3317EDE081F5C3C2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ImitationWeixin</string>
+		</dict>
+	</array>
+</dict>
+</plist>

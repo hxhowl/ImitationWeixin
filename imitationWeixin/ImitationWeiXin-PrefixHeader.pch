@@ -1,0 +1,33 @@
+//
+//  ImitationWeiXin-PrefixHeader.pch
+//  imitationWeixin
+//
+//  Created by 黄 晨鹏 on 15/6/20.
+//  Copyright (c) 2015年 mikado_Q. All rights reserved.
+//
+
+#ifndef imitationWeixin_ImitationWeiXin_PrefixHeader_pch
+#define imitationWeixin_ImitationWeiXin_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#ifdef __OBJC__
+
+#import <UIKit/UIKit.h>
+#import "WXXMPPTools.h"
+#import "UserInfo.h"
+#import "UIStoryboard+showInitVC.h"
+#import "UILabel+autoWidth.h"
+#import "UIImage+Externsion.h"
+#import "pinyin.h"
+
+#ifdef DEBUG
+#define HCPLog(...) NSLog(__VA_ARGS__)
+#else
+#define HCPLog(...)
+#endif
+
+
+#endif
+
+#endif
